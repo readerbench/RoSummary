@@ -23,6 +23,7 @@ This is a version of the RoGPT2 model trained on the [AlephNews](https://hugging
 | Large	 |  Beam Search	  | **0.7394**|   0.7470  |  0.7424  |  0.3492  |  0.1995  |  0.3384  |
 |	 | Top-p Sampling |   0.7311  |   0.7301  |  0.7299  |  0.3051  |  0.1418  |  0.2931  |
 
+You can find a Jupyter Notebook where there is a [demo](DemoRoSummary.ipynb) for RoSummary and AlephNews.
 
 
 
